@@ -1,0 +1,20 @@
+Creating and running a script
+Script basics
+Debugging Bash scripts
+Shell initialization files
+Variables
+special Variables
+Quoting characters
+Shell expansion
+Regular expressions
+Examples using grep
+The GNU sed stream editor
+The GNU awk programming language
+Conditional statements
+Writing interactive scripts
+The for loop
+The while loop
+I/O redirection and loops
+Break and continue
+The shift built-in
+Functions
